@@ -14,11 +14,11 @@ Dual mono compression on the rear bus
 
 # Alternative Scheps Rear Bus (ASRB) Parallel Compression Template for Cubase Pro 11
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/0uDYPIYRFDQ/0.jpg)](https://www.youtube.com/watch?v=0uDYPIYRFDQ "Video Title")
+
 ## Introduction
 
-For an overview of the Scheps Rear Bus parallel compression technique, here is a good video...
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/0uDYPIYRFDQ/0.jpg)](https://www.youtube.com/watch?v=0uDYPIYRFDQ "Video Title")
+For an overview of the Scheps Rear Bus parallel compression technique, the video above is a good explainer.
 
 All the buses are created using FX channels so routing is a bit more flexible.
 
