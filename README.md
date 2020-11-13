@@ -1,24 +1,12 @@
 # Alternative Scheps Rear Bus (ASRB) Parallel Compression Template for Cubase Pro 11
 
-Alternative Scheps Rear Bus (ASRB) Parallel Compression Template for Cubase Pro 11
-
-
-
-https://www.youtube.com/watch?v=0uDYPIYRFDQ
-
-More flexible than Scheps because effectively all buses can be routed through the rear bus.
-
-Routing
-
-Dual mono compression on the rear bus
-
-# Alternative Scheps Rear Bus (ASRB) Parallel Compression Template for Cubase Pro 11
-
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/0uDYPIYRFDQ/0.jpg)](https://www.youtube.com/watch?v=0uDYPIYRFDQ "Video Title")
 
 ## Introduction
 
 For an overview of the Scheps Rear Bus parallel compression technique, the video above is a good explainer.
+
+I've incorporated the rear bus technique into my master template that has a number of other buses for drums and orchestral mixing, but these can be removed to your liking.
 
 All the buses are created using FX channels so routing is a bit more flexible.
 
@@ -26,7 +14,7 @@ The Quadrafuzz plugin on the main buses is basically there to give tape warmth a
 
 I've removed all my not stock instruments, effects and track presets, they'll make no sense to you and you may not have the plugins anyway.
 
-Instrument and Audio tracks are disabled by default to reduce system load and template load times.
+Instrument and Audio tracks are disabled by default to reduce system load and template load times. Just right click and choose Enable to be abel to use them.
 
 The tracks in the bass and guitar folders folders are routed through to their respective buses, but are set up to switch route are clean DI signal through the "amp" FX bus if needed, either by enabling the direct routing, or using the sends. This system can be duplicated for rhythm and lead guitars. Strictly speaking it's not entirely necessary, you could just put the amp effects on the single audio track, but this allows for creative double tracking and editing techniques and is bypassed by default.
 
