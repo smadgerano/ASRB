@@ -24,6 +24,8 @@ The rear bus is set up with 4 alternative compressors in dual mono mode. If you 
 
 ## Installation
 
+This template was created using Cubase Pro 11, I doubt it will work for previous releases but the installation method is the same so give it a try. You may have more luck with the different versions, Elements, Artist etc, as long as you are using v11.
+
 Download the [Alternative Scheps Rear Bus (ASRB) Parallel Compression.cpr](https://github.com/smadgerano/MSDS/blob/master/Multiband%20Sound%20Design%20%26%20Sampling%20(MSDS).cpr) file from GitHub, and save it to the relevant folder on your machine.
 
 On Windows this is here...
